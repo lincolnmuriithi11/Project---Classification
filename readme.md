@@ -34,7 +34,7 @@ techniques.
 • Readme file explaining the project
 
 ## Data dictionary
-![Screen%20Shot%202022-05-24%20at%2012.18.57%20PM.png](attachment:Screen%20Shot%202022-05-24%20at%2012.18.57%20PM.png)
+![telcodatainfo.png](https://github.com/lincolnmuriithi11/Project_Classification/blob/main/data_info.png)
 
 ## Data preparation
 • transformed the total_charges column from a string to an integer for workability purposes.
@@ -58,7 +58,7 @@ techniques.
 • all the necessary functions are available on the acquire.py file
 
 ## Train Data
-![Screen%20Shot%202022-05-24%20at%2012.25.07%20PM.png](attachment:Screen%20Shot%202022-05-24%20at%2012.25.07%20PM.png)
+![traindata.png](https://github.com/lincolnmuriithi11/Project_Classification/blob/main/train_info.png)
 
 ## Hypothesis
 
