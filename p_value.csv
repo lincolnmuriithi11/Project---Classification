@@ -1,0 +1,14 @@
+,variables,p_values,hypothesis
+0,Monthly Charges,1.0736272928943076e-35,Reject the null hypothesis
+1,Total Charges,1.2955472689973212e-34,Reject the null hypothesis
+2,Tenure,4.5775138635416225e-115,Reject the null hypothesis
+3,Partner,3.578598859815084e-19,Reject the null hypothesis
+4,Dependents,1.5385742575781703e-24,Reject the null hypothesis
+5,Multiple Lines,0.0009985216252164028,Reject the null hypothesis
+6,Online Security,1.213117291376475e-29,Reject the null hypothesis
+7,Online Backup,2.031212091746579e-05,Reject the null hypothesis
+8,Device Protection,0.00018870079690668388,Reject the null hypothesis
+9,Tech Support,2.376480997030356e-23,Reject the null hypothesis
+10,Contract Type,7.326182186265472e-257,Reject the null hypothesis
+11,Fiber Optic Internt,2.831419548361709e-90,Reject the null hypothesis
+12,Electronic Check Payments,7.910587922260644e-75,Reject the null hypothesis
