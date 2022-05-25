@@ -12,7 +12,7 @@
 • Issue recommendations
 
 
-![Screen%20Shot%202022-05-25%20at%207.38.15%20AM.png](attachment:Screen%20Shot%202022-05-25%20at%207.38.15%20AM.png)
+![exec_summary.png](https://github.com/lincolnmuriithi11/Project_Classification/blob/main/exec_summary.png)
 
 ## Project approach
 • Create an acquire.py file that makes the project duplication process feasible
