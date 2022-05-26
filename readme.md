@@ -12,7 +12,7 @@
 • Issue recommendations
 
 
-![Screen%20Shot%202022-05-25%20at%207.38.15%20AM.png](attachment:Screen%20Shot%202022-05-25%20at%207.38.15%20AM.png)
+![exec_summary.png](https://raw.githubusercontent.com/lincolnmuriithi11/Project_Classification/c76b2fab4f4ae24fd218c9fcd0e75912af16ba37/exec_summary.png)
 
 ## Project approach
 • Create an acquire.py file that makes the project duplication process feasible
@@ -34,7 +34,7 @@ techniques.
 • Readme file explaining the project
 
 ## Data dictionary
-![Screen%20Shot%202022-05-24%20at%2012.18.57%20PM.png](attachment:Screen%20Shot%202022-05-24%20at%2012.18.57%20PM.png)
+![telco_df.png](https://raw.githubusercontent.com/lincolnmuriithi11/Project_Classification/main/data_info.png)
 
 ## Data preparation
 • transformed the total_charges column from a string to an integer for workability purposes.
@@ -58,7 +58,7 @@ techniques.
 • all the necessary functions are available on the acquire.py file
 
 ## Train Data
-![Screen%20Shot%202022-05-24%20at%2012.25.07%20PM.png](attachment:Screen%20Shot%202022-05-24%20at%2012.25.07%20PM.png)
+![train.png](https://raw.githubusercontent.com/lincolnmuriithi11/Project_Classification/main/train_info.png)
 
 ## Hypothesis
 
