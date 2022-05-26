@@ -260,6 +260,38 @@ def show_scores(TN, FP, FN, TP):
     print(f"Support (0): {support_pos}")
     print(f"Support (1): {support_neg}")
 
+# functions for tenure plot
+def tenure_vs_churn(telco_df):
+    tenure_not_churn = telco_df[telco_df.churn == "No"].tenure
+    tenure_churn = telco_df[telco_df.churn == "Yes"].tenure
+
+
+    plt.ylabel("$ customers $")
+    plt.xlabel ("$ tenure $")
+    plt.title ("Tenure and Churned Customers")
+    plt.hist([tenure_churn, tenure_not_churn], 
+              color = ["red", "blue"], 
+              label = ["churn_yes", "churn_no"]) 
+    plt.legend()
+    return 
+
+# functions for monthly_charges_churn plot
+
+def monthly_charges_churn(telco_df):  
+    mc_not_churn = telco_df[telco_df.churn == "No"].monthly_charges
+    mc_churn = telco_df[telco_df.churn == "Yes"].monthly_charges
+
+
+    plt.ylabel("$ customers $")
+    plt.xlabel ("$ monthly charge $")
+    plt.title ("Tenure and Churned Customers")
+    plt.hist([mc_churn, mc_not_churn], 
+          color = ["red", "blue"], 
+          label = ["churn_yes", "churn_no"]) 
+    plt.legend()
+    return
+
+
 
 # def prep_telco_data(df):
 #     # Drop duplicate columns
